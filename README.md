@@ -1,19 +1,36 @@
-## Óla, meu nome é Ricardo Barroso 👋
-Sou iniciante no mundo da programação.
-Conheça Meu perfil no [Linkedin](https://www.linkedin.com/in/ricardo-barroso-b9a9b1126/)
+## 👋 Olá! Meu nome é Ricardo Barroso
 
-🙎🏽‍♂️ **Tec. Desenvolvimento de sistema**
-- 💬 Gosto de aprender ! 
-- 💬 projetos em construção.
-- 🖥️ Atualmente mais focado em :
-  
-<div display="inline">
-  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img  width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-</div>  
+Sou iniciante no mundo da programação e estou sempre em busca de novos aprendizados. 🚀  
+Fique à vontade para visitar meu perfil no [LinkedIn](https://www.linkedin.com/in/ricardo-barroso-b9a9b1126/).
 
-  </br>
+---
+
+### 🎓 Formação
+**Técnico em Desenvolvimento de Sistemas**
+
+---
+
+### 💡 Sobre mim
+- 📚 Apaixonado por tecnologia e aprendizado contínuo
+- 🛠️ Atualmente desenvolvendo projetos pessoais
+- 💬 Sempre disposto a trocar ideias e aprender com a comunidade
+
+---
+
+### 🧠 Estudando atualmente:
+<div style="display: flex; gap: 10px;">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" />
+</div>
+
+---
+
+### 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/ricardo-barroso-b9a9b1126/)
+- Em breve: projetos aqui no GitHub!
+
+---
 
 
 
